@@ -27,7 +27,7 @@ Website: [[link](https://pokmon-nocturne.super.site/)]
 
 Visual gallery: [[link](https://www.behance.net/adelbervervloe)]
 
-Archieve:[[link](https://github.com/adelbertlvervloet-lab/Pokemon-Nocturne/tree/nocturne-apparatus)]
+Archive:[[link](https://github.com/adelbertlvervloet-lab/Pokemon-Nocturne/tree/nocturne-apparatus)]
 
 ## Status
 
