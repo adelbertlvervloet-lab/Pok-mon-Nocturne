@@ -8,11 +8,11 @@ and the musical and dramatic language of Castlevania: Nocturne.
 
 ## Languages
 
-- Français — source text
-- English — UK
-- Italiano
-- Deutsch — CH
-- 日本語
+*   [🇫🇷 Français — source text](./Français/)
+*   [🇬🇧 English — UK](./English-GB/)
+*   [🇮🇹 Italiano](./Italiano/)
+*   [🇩🇪 Deutsch — CH](./Deutsch-CH/)
+*   [🇯🇵 日本語](./日本語/)
 
 ## Contents
 
