@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+  <!-- Main Homepage -->
+  <url>
+    <loc>https://github.io</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Français Edition -->
+  <url>
+    <loc>https://github.ioFrançais/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- English (UK) Edition -->
+  <url>
+    <loc>https://github.ioEnglish-GB/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Italiano Edition -->
+  <url>
+    <loc>https://github.ioItaliano/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Deutsch (CH) Edition -->
+  <url>
+    <loc>https://github.ioDeutsch-CH/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 日本語 Edition -->
+  <url>
+    <loc>https://github.io日本語/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
