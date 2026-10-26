@@ -1,4 +1,4 @@
-# Pokémon Nocturne
+# Pokémon Nocturne ポケモン月下の夜想曲
 
 Unofficial, non-commercial transformative fan project.
 
