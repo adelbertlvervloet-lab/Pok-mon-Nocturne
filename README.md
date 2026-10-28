@@ -8,11 +8,11 @@ and the musical and dramatic language of Castlevania: Nocturne.
 
 ## Languages
 
-*   [🇫🇷 Français — source text](./Français/)
-*   [🇬🇧 English — UK](./English-GB/)
-*   [🇮🇹 Italiano](./Italiano/)
-*   [🇩🇪 Deutsch — CH](./Deutsch-CH/)
-*   [🇯🇵 日本語](./日本語/)
+*   [🇫🇷 Français — source text]
+*   [🇬🇧 English — UK]
+*   [🇮🇹 Italiano]
+*   [🇩🇪 Deutsch — CH]
+*   [🇯🇵 日本語]
 
 ## Contents
 
@@ -27,7 +27,7 @@ Website: [[link](https://pokmon-nocturne.super.site/)]
 
 Visual gallery: [[link](https://www.behance.net/adelbervervloe)]
 
-Archive:[[link](https://github.com/adelbertlvervloet-lab/Pokemon-Nocturne/tree/nocturne-apparatus)]
+Episode PDF Archive:[[link](https://github.com/adelbertlvervloet-lab/Pokemon-Nocturne/tree/nocturne-apparatus)]
 
 ## Status
 
